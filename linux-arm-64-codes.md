@@ -13,4 +13,4 @@ X4          | **5th argument**                      |                           
 X5          | **6th arguemnt**                      |                                 | W5           | R5           |
 X6          | **7th arguemnt**                      |                                 | W6           | R6           |
 X7          | **8th arguemnt**                      |                                 | W7           | R7           |
-X8          |
+X8          | syscall number                        |                                 | w8           | R8           |
