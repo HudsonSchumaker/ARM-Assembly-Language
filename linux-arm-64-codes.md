@@ -11,6 +11,6 @@ X2          | **3rd argument**                      |                           
 X3          | **4th argument**                      |                                 | W3           | R3           |
 X4          | **5th argument**                      |                                 | W4           | R4           |
 X5          | **6th arguemnt**                      |                                 | W5           | R5           |
-X6          |
+X6          | **7th arguemnt**                      |                                 | W6           | R6           |
 X7          |
 X8          |
