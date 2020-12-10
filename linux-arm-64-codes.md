@@ -9,7 +9,7 @@ X0          | **1st argument**, **return register** |  ?                        
 X1          | **2nd argument**                      |  ?                              | W1           | R1           | 
 X2          | **3rd argument**                      |                                 | W2           | R2           |
 X3          | **4th argument**                      |                                 | W3           | R3           |
-X4          |
+X4          | **5th argument**                      |                                 | W4           | R4           |
 X5          |
 X6          |
 X7          |
