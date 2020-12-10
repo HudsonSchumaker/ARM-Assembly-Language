@@ -8,7 +8,7 @@ Name 64 bit | Assignments                           | Preserved across function 
 X0          | **1st argument**, **return register** |  ?                              | W0           | R0           |
 X1          | **2nd argument**                      |  ?                              | W1           | R1           | 
 X2          | **3rd argument**                      |                                 | W2           | R2           |
-X3          |
+X3          | **4th argument**                      |                                 | W3           | R3           |
 X4          |
 X5          |
 X6          |
