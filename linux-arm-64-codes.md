@@ -22,8 +22,8 @@ System       | Range                           | Byte | Initialized | Uninitiali
 -------------|---------------------------------|------|-------------|---------------|------|
 .ascii.      |                                 |      |             |               |      |
 .asciz       |                                 |      |             |               |      |
-.byte        | 0 to 255                        |  1   |    db       |     resb      |  8   |
-word         | 0 to 65.535                     |  2   |    dw       |     resw      |  16  |
-doubleword   | 0 to 4.294.967.295              |  4   |    dd       |     resd      |  32  |
-quadword     | 0 to 18.446.744.073.709.551.615 |  8   |    dq       |     resq      |  64  |
+.byte        | 0 to 255                        |  1   |             |     resb      |  8   |
+word         | 0 to 65.535                     |  2   |             |     resw      |  16  |
+doubleword   | 0 to 4.294.967.295              |  4   |             |     resd      |  32  |
+quadword     | 0 to 18.446.744.073.709.551.615 |  8   |             |     resq      |  64  |
 
