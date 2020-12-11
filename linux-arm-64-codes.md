@@ -20,14 +20,12 @@ Data types:
 
 System       | Range                           | Byte | Initialized | Uninitialized | Bits |
 -------------|---------------------------------|------|-------------|---------------|------|
-.ascii.      |                                 |      |             |               |      |
+.ascii       |                                 |      |             |               |      |
 .asciz       |                                 |      |             |               |      |
 .byte        | 0 to 255                        |  1   |             |               |  8   |
-.short       |                                 |      |                             |      |
+.short       |                                 |  2   |             |               |  16  |
 .float       |                                 |      |             |               |      | 
 .double      |                                 |      |             |               |      |
-
-word         | 0 to 65.535                     |      |             |               |      |
-doubleword   | 0 to 4.294.967.295              |      |             |               |      |
-quadword     | 0 to 18.446.744.073.709.551.615 |      |             |               |      |
-
+.word        |                                 |  4   |             |               |  32  |
+.quad        |                                 |  8   |             |               |  64  |
+.octa        |                                 |  16  |             |               |  128 |
