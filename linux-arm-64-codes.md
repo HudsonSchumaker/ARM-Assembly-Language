@@ -29,3 +29,5 @@ System       | Range                           | Byte | Initialized | Uninitiali
 .word        |                                 |  4   |             |               |  32  |
 .quad        |                                 |  8   |             |               |  64  |
 .octa        |                                 |  16  |             |               |  128 |
+
+https://rosettacode.org/wiki/Variables#AArch64_Assembly
