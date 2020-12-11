@@ -27,7 +27,7 @@ System       | Range                           | Byte | Initialized | Uninitiali
 .float       |                                 |      |             |               |      | 
 .double      |                                 |      |             |               |      |
 
-word         | 0 to 65.535                     |  2   |             |               |  16  |
-doubleword   | 0 to 4.294.967.295              |  4   |             |               |  32  |
-quadword     | 0 to 18.446.744.073.709.551.615 |  8   |             |               |  64  |
+word         | 0 to 65.535                     |      |             |               |  16  |
+doubleword   | 0 to 4.294.967.295              |      |             |               |  32  |
+quadword     | 0 to 18.446.744.073.709.551.615 |      |             |               |  64  |
 
