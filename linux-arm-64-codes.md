@@ -23,6 +23,7 @@ System       | Range                           | Byte | Initialized | Uninitiali
 .ascii.      |                                 |      |             |               |      |
 .asciz       |                                 |      |             |               |      |
 .byte        | 0 to 255                        |  1   |             |               |  8   |
+.float       |                                 |      |             |               |      | 
 .double      |                                 |      |             |               |      |
 word         | 0 to 65.535                     |  2   |             |               |  16  |
 doubleword   | 0 to 4.294.967.295              |  4   |             |               |  32  |
