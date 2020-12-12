@@ -30,6 +30,7 @@ System       | Range                           | Byte | Initialized | Uninitiali
 .quad        |                                 |  8   |             |               |  64  |
 .octa        |                                 |  16  |             |               |  128 |
 -----------------------------------------------------------------------------------------------------------------------------------
+https://rosettacode.org/wiki/Variables#AArch64_Assembly
 
 Linux ARM64 Syscalls values: [linux-syscall-table](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm64-64_bit).
 
@@ -44,4 +45,4 @@ Id (*X8*)  | Name   | Entry point |
 
 
 
-https://rosettacode.org/wiki/Variables#AArch64_Assembly
+
