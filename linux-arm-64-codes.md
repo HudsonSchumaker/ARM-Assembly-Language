@@ -36,8 +36,8 @@ Linux ARM64 Syscalls values: [linux-syscall-table](https://chromium.googlesource
 
 Id (*X8*)  | Name   | Entry point |
 ------------|--------|-------------|
-0           | read   | sys_read    |
-1           | write  | sys_write   |
+63          | read   | sys_read    |
+64          | write  | sys_write   |
 2           | open   | sys_open    |
 3           | close  | sys_close   |
 57          | fork   | sys_fork    |
