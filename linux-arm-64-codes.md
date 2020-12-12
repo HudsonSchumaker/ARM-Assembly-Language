@@ -34,14 +34,13 @@ https://rosettacode.org/wiki/Variables#AArch64_Assembly
 
 Linux ARM64 Syscalls values: [linux-syscall-table](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm64-64_bit).
 
-Id (*X8*)  | Name   | Entry point |
+Id (*X8*)   | Name   | Entry point |
 ------------|--------|-------------|
-63          | read   | sys_read    |
-64          | write  | sys_write   |
-            | open   | sys_open    |
-            | close  | sys_close   |
-            | fork   | sys_fork    |
-93          | exit   | _exit    |
+63          | read   | read        |
+64          | write  | write       |
+56          | open   | open        |
+57          | close  | close       |
+93          | exit   | _exit       |
 
 
 
