@@ -24,8 +24,8 @@ System       | Range                           | Byte | Initialized | Uninitiali
 .asciz       |                                 |      |             |               |      |
 .byte        | 0 to 255                        |  1   |             |               |  8   |
 .short       |                                 |  2   |             |               |  16  |
-.float       |                                 |      |             |               |      | 
-.double      |                                 |      |             |               |      |
+.float       |                                 |  4   |             |               |  32  | 
+.double      |                                 |  8   |             |               |  64  |
 .word        |                                 |  4   |             |               |  32  |
 .quad        |                                 |  8   |             |               |  64  |
 .octa        |                                 |  16  |             |               |  128 |
