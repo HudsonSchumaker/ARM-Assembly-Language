@@ -29,5 +29,19 @@ System       | Range                           | Byte | Initialized | Uninitiali
 .word        |                                 |  4   |             |               |  32  |
 .quad        |                                 |  8   |             |               |  64  |
 .octa        |                                 |  16  |             |               |  128 |
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Linux ARM64 Syscalls values: [linux-syscall-table](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm64-64_bit).
+
+Id (*X8*)  | Name   | Entry point |
+------------|--------|-------------|
+0           | read   | sys_read    |
+1           | write  | sys_write   |
+2           | open   | sys_open    |
+3           | close  | sys_close   |
+57          | fork   | sys_fork    |
+60          | exit   | sys_exit    |
+
+
 
 https://rosettacode.org/wiki/Variables#AArch64_Assembly
