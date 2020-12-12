@@ -38,10 +38,10 @@ Id (*X8*)  | Name   | Entry point |
 ------------|--------|-------------|
 63          | read   | sys_read    |
 64          | write  | sys_write   |
-2           | open   | sys_open    |
-3           | close  | sys_close   |
-57          | fork   | sys_fork    |
-60          | exit   | sys_exit    |
+            | open   | sys_open    |
+            | close  | sys_close   |
+            | fork   | sys_fork    |
+93          | exit   | _exit    |
 
 
 
