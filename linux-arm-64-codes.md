@@ -13,7 +13,11 @@ X4          | **5th argument**                      |                           
 X5          | **6th arguemnt**                      |                                 | W5           | R5           |
 X6          | **7th arguemnt**                      |                                 | W6           | R6           |
 X7          | **8th arguemnt**                      |                                 | W7           | R7           |
-X8          | syscall number                        |                                 | w8           | R8           |
+X8          | syscall number Linux arm              |                                 | W8           | R8           |
+...         |                                       |                                 | ...          | ...          |
+X16         | syscall number iOS, macOS             |                                 | W16          | R16          |
+...         |                                       |                                 | ...          | ...          |
+X31         |                                       |                                 | W31          | R31          |
 ---------------------------------------------------------------------------------------------------------------------
 
 Floating point registers:
@@ -55,7 +59,7 @@ Id (*X8*)   | Name   | Entry point |
 64          | write  | write       |
 56          | open   | open        |
 57          | close  | close       |
-93          | exit   | _exit       |
+93          | exit   | _exit       |     
 
 
 
