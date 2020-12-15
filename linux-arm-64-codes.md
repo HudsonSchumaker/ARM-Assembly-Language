@@ -16,6 +16,21 @@ X7          | **8th arguemnt**                      |                           
 X8          | syscall number                        |                                 | w8           | R8           |
 ---------------------------------------------------------------------------------------------------------------------
 
+Floating point registers:
+Name 64 bit | Assignments                           | Preserved across function calls | 128 NEON | 32 FPU | 16 FPU |
+------------|---------------------------------------|---------------------------------|----------|--------|--------|
+D0          | **1st argument**, **return register** |  no                             | V0       | S0     | H0     |
+D1          | **2nd argument**, **return register** |  no                             | V1       | S1     | H1     | 
+D2          | **3rd argument**                      |                                 | V2       | S2     | H2     |
+D3          | **4th argument**                      |                                 | V3       | S3     | H3     |
+D4          | **5th argument**                      |                                 | V4       | S4     | H4     |
+D5          | **6th arguemnt**                      |                                 | V5       | S5     | H5     |
+D6          | **7th arguemnt**                      |                                 | V6       | S6     | H6     |
+D7          | **8th arguemnt**                      |                                 | V7       | S7     | H7     |
+...         |                                       |                                 | ...      | ...    | ...    |
+D31         |                                       |                                 | V31      | S31    | H31    |
+--------------------------------------------------------------------------------------------------------------------
+
 Data types:
 
 System       | Range                           | Byte | Initialized | Uninitialized | Bits |
