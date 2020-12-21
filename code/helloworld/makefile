@@ -1,5 +1,7 @@
-HelloWorld: HelloWorld.o
-	ld -o HelloWorld HelloWorld.o
+all: 	
+	as -o hello.o hello.s
+	ld -o hello hello.o
 
-HelloWorld.o: HelloWorld.s
-	as -o HelloWorld.o HelloWorld.s
+clean: 
+        rm *.o
+	
