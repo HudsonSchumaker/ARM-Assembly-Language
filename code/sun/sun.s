@@ -12,7 +12,6 @@
    .equ        R, 4
    .equ        S, 5
 
-
 .text
 .global main
 
