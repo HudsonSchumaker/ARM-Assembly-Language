@@ -1,5 +1,5 @@
 # ARM-Assembly-Language
 ARM Assembly Language
-Able to use:
+able to use:
 * Raspberry Pi
 * Nvidia Jetson Nano
