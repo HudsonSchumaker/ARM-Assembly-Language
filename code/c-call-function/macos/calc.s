@@ -1,7 +1,6 @@
 //
 //  Calc.s
 //  Lab
-//
 //  Created by Hudson Schumaker on 26.03.22.
 //
 
