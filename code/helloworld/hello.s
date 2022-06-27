@@ -1,6 +1,5 @@
 // Hudson Schumaker
 // Assembler program to print "Hello World!"
-// to stdout.
 //
 // X0-X2 - parameters to linux function services
 // X8 - linux function number, for iOS/macOS X16
