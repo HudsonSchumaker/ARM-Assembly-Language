@@ -1,6 +1,6 @@
 //
 //  area.s
-//  Lab
+//  Schumaker Lab
 //
 //  Created by Hudson Schumaker on 03.04.22.
 //
