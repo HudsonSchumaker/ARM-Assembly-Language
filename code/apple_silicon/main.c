@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Lab
+//  Schumaker Lab
 //
 
 #include <stdio.h>
